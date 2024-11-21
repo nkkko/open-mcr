@@ -69,6 +69,8 @@ For development, a pre-made environment is available in [Codespaces](https://git
 
 [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/iansan5653/open-mcr?quickstart=1)
 
+[![Open in Codeanywhere](https://codeanywhere.com/img/open-in-codeanywhere-btn.svg)](https://app.codeanywhere.com/#https://github.com/iansan5653/open-mcr)
+
 > [!NOTE]
 > The configuration auomatically installs the [`desktop-lite`](https://github.com/devcontainers/features/tree/main/src/desktop-lite)
 > feature for running the GUI. This environment can be accessed in your browser through the forwarded `6080` port. The
